@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace XamarinPropertyChanged
 {
-    public class MainPageViewModel : INotifyPropertyChanged
+    public class MainPageViewModel : BaseViewModel
     {
         private List<string> items = new List<string>();
 
