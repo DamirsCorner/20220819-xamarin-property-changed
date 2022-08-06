@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPropertyChanged.Andr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPropertyChanged.iOS", "XamarinPropertyChanged\XamarinPropertyChanged.iOS\XamarinPropertyChanged.iOS.csproj", "{645AB6EA-7574-4B1E-9E78-DF891850B6FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPropertyChanged", "XamarinPropertyChanged\XamarinPropertyChanged\XamarinPropertyChanged.csproj", "{A39D621B-25AE-48FE-8629-F12BB8638824}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinPropertyChanged", "XamarinPropertyChanged\XamarinPropertyChanged\XamarinPropertyChanged.csproj", "{A39D621B-25AE-48FE-8629-F12BB8638824}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
